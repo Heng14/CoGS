@@ -1,7 +1,7 @@
-# CoGS🛠: Controllable Gaussian Splatting
+# CoGS: Controllable Gaussian Splatting
 ### [Project Page](https://cogs2023.github.io/) | [Paper](https://arxiv.org/abs/2312.05664) 
 
-> [**CoGS🛠: Controllable Gaussian Splatting**](https://arxiv.org/abs/2312.05664),            
+> [**CoGS: Controllable Gaussian Splatting**](https://arxiv.org/abs/2312.05664),            
 > [Heng Yu](https://heng14.github.io/), [Joel Julin](https://joeljulin.github.io/), [Zoltan Á Milacski](https://scholar.google.com/citations?user=rSqodggAAAAJ&hl=es), [Koichiro Niinuma](https://scholar.google.com/citations?user=AFaeUrYAAAAJ&hl=en), [László A. Jeni](https://www.laszlojeni.com/)  
 > **Arxiv preprint**
 
